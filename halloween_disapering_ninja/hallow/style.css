@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+}
+#wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 700px;
+    margin: 90px;
+}
+.box {
+    height: 130px;
+    width: 130px;
+    background-color: darkslategray;
+    border: 3px solid black;
+    transition: 0.5s;
+    padding: 10px;
+    margin: 5px;
+}
+.hallow{
+    height: 130px;
+    width: 130px;
+    margin: 5px;
+}
